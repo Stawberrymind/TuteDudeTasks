@@ -1,3 +1,5 @@
+#Assignment 1 Part 1
+
 #getting the input from the users
 num1 = int(input("Enter the first number: "))  
 num2 = int(input("Enter the second number: ")) 
